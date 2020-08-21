@@ -1,20 +1,16 @@
 
-## Introduction
+## Introduction(此版为oracle版本)
 XXL-JOB is a distributed task scheduling framework. 
 It's core design goal is to develop quickly and learn simple, lightweight, and easy to expand. 
 Now, it's already open source, and many companies use it in production environments, real "out-of-the-box".
 
 XXL-JOB是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
+此版本为2.1.0 参考[这个项目](https://github.com/Gigass/xxl-job-oracle)
 
-
-## Documentation
+## Documentation (原始作者-mysql版详见)
+- [github](https://github.com/xuxueli/xxl-job)
 - [中文文档](https://www.xuxueli.com/xxl-job/)
 - [English Documentation](https://www.xuxueli.com/xxl-job/en/)
-
-
-## Communication    
-- [社区交流](https://www.xuxueli.com/page/community.html)
-
 
 ## Features
 - 1、简单：支持通过Web页面对任务进行CRUD操作，操作简单，一分钟上手；
@@ -54,9 +50,9 @@ XXL-JOB是一个分布式任务调度平台，其核心设计目标是开发迅�
 - 35、权限控制：执行器维度进行权限控制，管理员拥有全量权限，普通用户需要分配执行器权限后才允许相关操作；
 
 ## Contributing
-Contributions are welcome! Open a pull request to fix a bug, or open an [Issue](https://github.com/xuxueli/xxl-job/issues/) to discuss a new feature or change.
+Contributions are welcome! Open a pull request to fix a bug, or open an [Issue](https://github.com/NopSmile/xxl-job-oracle-2.1.0/issues) to discuss a new feature or change.
 
-欢迎参与项目贡献！比如提交PR修复一个bug，或者新建 [Issue](https://github.com/xuxueli/xxl-job/issues/) 讨论新特性或者变更。
+欢迎参与项目贡献！比如提交PR修复一个bug，或者新建 [Issue](https://github.com/NopSmile/xxl-job-oracle-2.1.0/issues) 讨论新特性或者变更。
 
 
 ## Copyright and License
